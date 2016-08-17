@@ -1,0 +1,23 @@
+Block 0 -82 200 82 sprites/greenPlatform.png
+Block 200 -41 200 82 sprites/orangePlatform.png
+Block 400 0 200 82 sprites/orangePlatform.png
+Block 600 41 200 82 sprites/orangePlatform.png
+Block 800 82 200 82 sprites/orangePlatform.png
+VertMoveBlock 1000 122 200 82 1 400 1 sprites/orangePlatform.png
+Block 1200 -155 250 400 sprites/lightGreenPlatform.png
+Block 1450 163 82 82 sprites/smallOrangePlatform.png
+VertMoveBlock 1532 163 82 82 1 400 2 sprites/smallOrangePlatform.png
+HorizMoveBlock 1696 163 82 82 1 400 2 sprites/smallOrangePlatform.png
+Block 1778 163 82 82 sprites/smallOrangePlatform.png
+VertMoveBlock 1860 163 82 82 1 400 2 sprites/smallOrangePlatform.png
+Block 1942 193 124 53 sprites/smallLightGreenPlatform.png
+Block 2066 204 800 41 sprites/longGreenPlatform.png
+VertMoveBlock 2106 245 120 120 1 600 4 sprites/multiColorCube.png
+VertMoveBlock 2306 84 120 120 -1 600 4 sprites/multiColorCube.png
+VertMoveBlock 2506 245 120 120 1 600 4 sprites/multiColorCube.png
+VertMoveBlock 2706 84 120 120 -1 600 4 sprites/multiColorCube.png
+Block 2866 193 124 53 sprites/smallLightGreenPlatform.png
+Block 3050 215 124 35 sprites/tanPlatform.png
+Block 3234 215 124 35 sprites/tanPlatform.png
+Block 3398 185 299 65 sprites/endPlatform.png
+BGTexture 3398 250 332 197 sprites/endBackground.png
